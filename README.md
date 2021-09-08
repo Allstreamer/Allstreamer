@@ -6,14 +6,11 @@ A Developer making all kinds of personal and open source projects
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" align="left" alt="TypeScript-Icon" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="left" alt="Python-Icon" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="left" alt="HTML5-Icon" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" align="left" alt="Rust-Icon" width="30"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="left" alt="Java-Icon" width="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" align="left" alt="CSharp-Icon" width="30"/>
 
-<!--
-Not quite there yet but soon
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" align="left" alt="Rust-Icon" width="30"/>
--->
 <br>
 
 ### My Tools
