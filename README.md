@@ -9,7 +9,7 @@ A Developer making all kinds of personal and open source projects
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" align="left" alt="Rust-Icon" width="30"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="left" alt="Java-Icon" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" align="left" alt="CSharp-Icon" width="30"/>
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" align="left" alt="CSharp-Icon" width="30"/>-->
 
 <br>
 
