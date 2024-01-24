@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Germany</h3>
 
 <p align="center">
-    <img src="https://waka.bredenbach.dev/api/badge/Allstreamer/interval:any?label=Time wasted coding" alt="Total time coded since Mar 27 2023" />
+    <img src="https://waka.bredenbach.dev/api/badge/Allstreamer/interval:any?label=Time wasted typing code" alt="Total time coded since Mar 27 2023" />
     <img src="https://komarev.com/ghpvc/?username=allstreamer&label=Profile%20views&color=0e75b6&style=flat" alt="allstreamer" />
 </p>
 
