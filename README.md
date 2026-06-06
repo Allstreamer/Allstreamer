@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Germany</h3>
 
 <p align="center">
-    <img src="https://wakatime.com/badge/user/c28381b1-cf6b-4eaa-bebf-3a07bc911665.svg" alt="Total time coded since Mar 27 2023" />
+    <img src="https://img.shields.io/endpoint?url=https://wakapi.bredenbach.dev/api/compat/shields/v1/Constantin/interval:all_time&label=All%20time&color=blue" alt="Total time coded since Mar 27 2023" />
     <img src="https://komarev.com/ghpvc/?username=allstreamer&label=Profile%20views&color=0e75b6&style=flat" alt="allstreamer" />
 </p>
 
@@ -21,9 +21,3 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
 </p>-->
-<a>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allstreamer&layout=compact" />
-    </p>
-<!--</p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allstreamer&" alt="allstreamer" />-->
-</a>
